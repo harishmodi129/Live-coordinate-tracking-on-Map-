@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Live-coordinate-tracking-on-Map-/static/css/main.75020e6b.css",
+    "main.js": "/Live-coordinate-tracking-on-Map-/static/js/main.5fc85e07.js",
+    "index.html": "/Live-coordinate-tracking-on-Map-/index.html",
+    "main.75020e6b.css.map": "/Live-coordinate-tracking-on-Map-/static/css/main.75020e6b.css.map",
+    "main.5fc85e07.js.map": "/Live-coordinate-tracking-on-Map-/static/js/main.5fc85e07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75020e6b.css",
+    "static/js/main.5fc85e07.js"
+  ]
+}
